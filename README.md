@@ -26,6 +26,8 @@ A full-stack web application for managing campus shuttle services, allowing stud
 ![](assets/userbookings.png)
 - **Wallet System**: Manage and track point balance and transaction history
 
+![](assets/addingfunds.png)
+
 - **User Profile**: View and manage personal information
 
 ![](assets/userprofile.png)
