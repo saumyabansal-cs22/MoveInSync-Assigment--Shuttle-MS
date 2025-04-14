@@ -134,7 +134,7 @@ npm start
 
 ## Contributors
 
-- [Your Name](https://github.com/yourusername) - Project Lead
+- [Saumya Bansal](https://github.com/saumyabansal-cs22) - Project Lead
 
 ## License
 
