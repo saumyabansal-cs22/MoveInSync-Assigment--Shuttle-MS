@@ -2,22 +2,50 @@
 
 A full-stack web application for managing campus shuttle services, allowing students to book rides, track trip history, and manage wallet points.
 
-## Features
+## Features 
 
 ### Student Features
 - **User Authentication**: Secure login and registration system
+
+   ![Login Page](assets/login.png)
+
+   ![Register Page](assets/register.png)
+
+
 - **Dashboard**: Overview of available shuttles and quick actions
+
+   ![](assets/userdashboard.png)
+
+   ![](assets/admindashboard.png)
+
 - **Book a Ride**: Select routes and book shuttle rides using wallet points
+
+ ![](assets/bookaride.png)
 - **Trip History**: View past and upcoming shuttle bookings
+
+![](assets/userbookings.png)
 - **Wallet System**: Manage and track point balance and transaction history
+
 - **User Profile**: View and manage personal information
+
+![](assets/userprofile.png)
 
 ### Admin Features
 - **Admin Dashboard**: Overview of system statistics and activities
+
+![](assets/admindashboard.png)
 - **Manage Students**: Add, edit, and manage student accounts
+
+![](assets/managestudent.png)
 - **Manage Routes**: Create and modify shuttle routes
+
+![](assets/manageroutes.png)
 - **Manage Bookings**: Track and manage all shuttle bookings
+
+![](assets/confirmbooking.png)
 - **Manage Locations**: Add and edit pickup/drop-off locations
+
+![](assets/addlocation.png)
 
 ## Technology Stack
 
@@ -134,7 +162,7 @@ npm start
 
 ## Contributors
 
-- [Saumya Bansal](https://github.com/saumyabansal-cs22) - Project Lead
+- [Your Name](https://github.com/yourusername) - Project Lead
 
 ## License
 
